@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../Users/User/Desktop/.vscode/seafood delivery"
+		},
+		{
+			"name": "threejs-toys",
+			"path": "../../../Users/User/Desktop/.vscode/seafood delivery/threejs-toys"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "seafood delivery"
+	}
+}
